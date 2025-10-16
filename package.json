@@ -28,7 +28,7 @@
     "prosthetic-hand": "^1.4.0",
     "rollup": "^2.78.1",
     "rollup-plugin-git-version": "^0.3.1",
-    "sinon": "^7.5.0",
+    "sinon": "^21.0.0",
     "ssri": "^9.0.1",
     "uglify-js": "^3.17.0"
   },
